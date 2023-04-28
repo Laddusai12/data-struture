@@ -1,1 +1,1 @@
-# data-struture
+# data-structure
